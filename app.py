@@ -5,6 +5,8 @@ st.title('A simple example of st.progress info text')
 
 st.write('Extending the current docs example, and then using the text for tqdm-style status')
 
+st.write('Making a quick change...')
+
 from st_progress_text import st_progress
 
 
